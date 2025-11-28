@@ -20,7 +20,8 @@ Disciplina: Estrutura de dados
 A atividade é composta por três arquivos que serão encontrados na pasta "src/". Use o terminal.
 
 - Primeira etapa:
-Acesse a pasta raíz da atividade (/src).
+Acesse a pasta raíz da atividade.
+/src
 
 - Segunda etapa:
 Compile os arquivos.
