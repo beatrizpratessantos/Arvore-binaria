@@ -24,12 +24,10 @@ Acesse a pasta raíz da atividade (/src).
 
 - Segunda etapa:
 Compile os arquivos.
-```bash
-   javac src/.java
+javac src/.java
 
 - Terceira etapa:
 Execute o Main. 
-```bash
 java src/Main
   
 
