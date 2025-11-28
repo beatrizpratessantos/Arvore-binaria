@@ -1,16 +1,13 @@
 public class Main {
 public static void main(String[] args) {
-// Cenário A
 ArvoreBinariaBusca<Integer> a = new ArvoreBinariaBusca<>();
 int[] A = {10, 20, 30, 40, 50, 60, 70};
 for (int v: A) a.inserir(v);
 imprimirDiagnostico("cenário A", a);
-// Cenário B
 ArvoreBinariaBusca<Integer> b = new ArvoreBinariaBusca<>();
 int[] B = {70, 60, 50, 40, 30, 20, 10};
 for (int v: B) b.inserir(v);
 imprimirDiagnostico("cenário B", b);
-// Cenário C
 ArvoreBinariaBusca<Integer> c = new ArvoreBinariaBusca<>();
 int[] base = {50, 30, 70, 20, 40, 60, 80, 10, 25, 35, 45, 55, 65, 75, 85};
 for (int v: base) c.inserir(v);
