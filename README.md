@@ -28,7 +28,9 @@ Compile os arquivos.
    javac src/.java
 
 - Terceira etapa:
-Execute o Main (java src/Main).
+Execute o Main. 
+```bash
+java src/Main
   
 
 
