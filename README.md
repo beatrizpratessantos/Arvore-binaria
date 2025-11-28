@@ -15,7 +15,7 @@ Disciplina: Estrutura de dados
 - Construir casos que produzam árvores degeneradas (pior caso) e quase balanceadas;
 - Verificar, por código, que a árvore possui 7 níveis (definindo nível da raiz = 1).
 
-## Compilando e rodando a atividade
+## Compilando e rodando a atividade:
 
 A atividade é composta por três arquivos que serão encontrados na pasta "src/". Use o terminal.
 
@@ -24,8 +24,8 @@ Acesse a pasta raíz da atividade (/src).
 
 - Segunda etapa:
 Compile os arquivos.
-'''bash
-javac src/.java
+```bash
+   javac src/.java
 
 - Terceira etapa:
 Execute o Main (java src/Main).
